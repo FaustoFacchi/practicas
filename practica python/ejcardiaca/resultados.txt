@@ -1,0 +1,3 @@
+Las frecuencias medias fueron:[85.0, 100.0, 95.0, 75.0]
+La frecuencia media es: 97.5
+La frecuencia max fue: 100

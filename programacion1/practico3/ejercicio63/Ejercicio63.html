@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contador de Vocales</title>
+</head>
+<body>
+    <h2>Contador de Vocales</h2>
+    <form action="ejercicio63.php" method="post">
+        <label for="text">Ingrese el texto:</label><br>
+        <input type="text" name="text" style="text-transform:uppercase;" onkeyup="this.value=this.value.toUpperCase();" pattern="[A-Za-záéíóúÁÉÍÓÚñÑ\s]+" required >
+        <input type="submit" value="Contar Vocales">
+    </form>
+</body>
+</html>
